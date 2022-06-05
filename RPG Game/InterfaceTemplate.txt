@@ -1,0 +1,58 @@
+﻿MainMenu()
+
+C# RPG
+
+[1] Play
+[2] Help/Credits
+[3] Exit
+
+Select option: 
+
+Dialogue()
+
+Character
+__________________________________________________________________
+
+I say this... (Should print out character by character...)
+
+__________________________________________________________________
+-> (Read a key here to continue...)
+
+MajorDecision()
+
+The situation is bad. What do you do?
+__________________________________________________________________
+
+[1] Do nothing
+[2] Take action
+[3] ...
+
+Select option: 
+__________________________________________________________________
+
+CombatWave()
+
+Wave X
+Enemies:
+__________________________________________________________________
+
+Enemy 1
+Enemy 2
+Enemy 3
+...
+
+__________________________________________________________________
+
+Your Characters:
+__________________________________________________________________
+Michael
+James
+Henry
+...
+
+[1] Move
+[2] Use item
+[3] Character/Enemy Info
+
+Select option: 
+__________________________________________________________________
